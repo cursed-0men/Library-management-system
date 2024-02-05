@@ -1,4 +1,4 @@
-# Library-management-system
+# Library management system
 # 1. Introduction
 1.1 The system provides basic functionalities for managing a library, including adding books, displaying the catalog, searching for books based on various criteria, and deleting books. The system employs a simple console-based user interface.
 
