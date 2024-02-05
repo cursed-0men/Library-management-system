@@ -193,16 +193,16 @@ int main() {
                 break;
 
             case 4:
-                delete_book(Book);
-                break;
+            delete_book(Book);
+            break;
 
             case 5:
-                printf("\nBye...");
-                break;
+            printf("\nBye...");
+            break;
 
             default:
-                printf("\nINVALID CHOICE...");
-                break;
+            printf("\nINVALID CHOICE...");
+            break;
         }
     } while (choice != 5);
 
